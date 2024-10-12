@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83cb6eb5-cef3-4095-84f6-19ab3abcb978" name="Changes" comment="juego adivinar número sencillo">
-      <change afterPath="$PROJECT_DIR$/EjercicoTareas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
